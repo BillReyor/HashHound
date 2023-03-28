@@ -1,4 +1,4 @@
-# HashHound
+# Non-Functional HashHound
 
 Hash Hound is a simple Python script that extracts and saves MD5, SHA-1, and SHA-256 hashes from text or PDF files. It uses regular expressions and the PyPDF2 library to extract and process the input file.
 
