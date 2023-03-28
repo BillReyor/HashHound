@@ -10,7 +10,7 @@ Hash Hound is a simple Python script that extracts and saves MD5, SHA-1, and SHA
 To install PyPDF2, run the following command:
 
 ```bash
-pip install PyPDF2
+pip install PyPDF2```
 
 ## Usage
 
@@ -18,7 +18,7 @@ pip install PyPDF2
 2. Run the script in your terminal:
 
 ```bash
-python hashhound.py  
+python hashhound.py```  
 
 3. Follow the prompts to provide input and output file paths.
 4. The script will extract hashes from the input file and save them in the output file.
